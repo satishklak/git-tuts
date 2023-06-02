@@ -1,0 +1,3 @@
+dno dname
+1 sales
+2 finn
