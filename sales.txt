@@ -1,0 +1,3 @@
+sno product qty
+1 sant 20
+2 rubber 30
